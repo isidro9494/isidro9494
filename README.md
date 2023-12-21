@@ -5,7 +5,7 @@
 [📧]renplagnes@gmail.com
 
 
-###ABOUT ME 
+### ABOUT ME 
 **Hello, welcome to my github, my name is Isidro Rodríguez Freile. I am a Multiplatform application Developer, but the languages ​​I use the most are Java and Javascript(in the process of improving as a developer).** 💻 📀 💾
 
 **I like to travel and have new learning challenges.** ✈️ 🛄💪
@@ -15,7 +15,7 @@
 **isidro9494/isidro9494** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 
-###MY PROYECTS AND WORKS
+### MY PROYECTS AND WORKS
 (work in progress )🕚🌐💼 🔄
 
 ### HOW DOES IT WORK :
