@@ -1,9 +1,6 @@
 
 ### **WELCOME TO MY GITHUB**👋 💻📱
 
-[LinkedIn](https://www.linkedin.com/in/isidro-rodr%C3%ADguez-freile-25156619a/overlay/contact-info/)
-[📧]renplagnes@gmail.com
-
 
 ### ABOUT ME 
 **Hello, welcome to my github, my name is Isidro Rodríguez Freile. I am a Multiplatform application Developer, but the languages ​​I use the most are Java and Javascript(in the process of improving as a developer).** 💻 📀 💾
